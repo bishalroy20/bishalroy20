@@ -9,6 +9,7 @@
 - 🛢️ Database: MySQL
 - 📚 Comfortable with Algorithms & Data Structures
 - **Other:** Git, GitHub
+- NumPy, Pandas, Matplotlib
 
   
 ## 🌱 Currently
@@ -16,7 +17,7 @@
 - Building full-stack Django apps  
 - Learning frontend frameworks like React  
 - Exploring open-source contributions
-- NumPy, Pandas, Matplotlib
+
 
 
 
