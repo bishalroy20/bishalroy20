@@ -24,7 +24,7 @@
 
 ## 🔗 Connect with me
 [LinkedIn](https://www.linkedin.com/in/bishal-roy-9aa81137b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 
-[Portfolio](https://bishalroy20.github.io/portfolio-website/) | 
+[Portfolio](https://bishalroy20.github.io/Portfolio-2025/) | 
 [Email](bishalbondhon20@gmail.com)
 
 
