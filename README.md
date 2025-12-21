@@ -1,14 +1,14 @@
 # Hi, I'm Bishal Roy 👋
 
-🎓 Computer Science Student | 💻 Full-Stack Developer | 🧠 DSA Enthusiast
+🎓 Computer Science Student | 💻 MERN-Stack Developer | 🧠 DSA Enthusiast
 
 ## 🛠️ Tech Stack
 - 💻 Languages: C++, Python, Java, JavaScript
-- 🌐 Frontend: HTML, CSS, TailwindCSS, JavaScript
-- 🔧 Backend: Django
-- 🛢️ Database: MySQL
+- 🌐 Frontend: HTML, CSS, TailwindCSS, JavaScript , React js
+- 🔧 Backend: Django , Express js
+- 🛢️ Database: MySQL , Mongodb 
 - 📚 Comfortable with Algorithms & Data Structures
-- **Other:** Git, GitHub
+- **Other:** Git, GitHub , FireBase Authentication
 - NumPy, Pandas, Matplotlib
 
   
