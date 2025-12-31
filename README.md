@@ -1,3 +1,22 @@
+
+<a href="http://gitbanner.Saviru.qzz.io/" target="_blank">
+  <img src="assets/bishal_roy.png" style="width: 100%;" alt="Bishal Roy GitHub Banner">
+</a>
+
+```Hi there, I'm Bishal Roy. I'm a full-stack web developer with expertise in **React, Express.js, MongoDB, and Firebase Authentication (MERN stack)**. I focus on building scalable and user-friendly applications with clean code and responsive UI/UX. I’m passionate about learning new technologies, exploring modern React libraries, and integrating AI into projects. I’ve worked on production-level projects like e-commerce platforms and dashboards, and I also have experience in competitive programming. Feel free to contact me — I may be slow to respond, but I will surely reply.```
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
 # Hi, I'm Bishal Roy 👋
 
 🎓 Computer Science Student | 💻 MERN-Stack Developer | 🧠 DSA Enthusiast
