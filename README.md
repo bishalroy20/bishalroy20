@@ -34,7 +34,6 @@ I focus on building **scalable** and **user‑friendly applications** with **cle
 [![Linkedin Badge](https://img.shields.io/badge/-BishalRoy-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bishalroy20/)
 [![Facebook Badge](https://img.shields.io/badge/-BishalRoy-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/bishal.roy.213382)
 [![Gmail Badge](https://img.shields.io/badge/-bishalroy0130@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:bishalbondhon20@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-bishalroy-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bishalroy3332?igsh=MWRuaHE3bjF0NDRvYw==)
 
 
 
@@ -49,9 +48,18 @@ I focus on building **scalable** and **user‑friendly applications** with **cle
 
 
 
+## 📊 GitHub Stats
+
 <p align="center">
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishalroy20&theme=radical" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <!-- Languages Used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalroy20&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 
 -- 
@@ -120,9 +128,9 @@ Here are the main technologies I use:
 ## Currently
 - Making **websites and full‑stack applications** using **React, Express.js, Node.js, MongoDB, Firebase, Tailwind CSS, HTML, JavaScript, Python, and C++**
 - Exploring **React libraries and frameworks** like **Next.js** to build modern, scalable apps
-- Trying out **AI integration** in projects to add smart features and automation
+- I am exploring **Next.js**.
+- I’m working on a **Temple Management** website.
 - Building and refining **production‑level projects** for better **UI/UX** and **performance**
-- Contributing to **open‑source projects** and learning new technologies to stay ahead
 
 
 
