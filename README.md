@@ -56,9 +56,10 @@ I focus on building **scalable** and **user‑friendly applications** with **cle
 </p>
 
 <p align="center">
-  <!-- Languages Used -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalroy20&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalroy20&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 
 
