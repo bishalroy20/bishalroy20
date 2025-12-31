@@ -29,6 +29,16 @@ I focus on building **scalable** and **user‑friendly applications** with **cle
 
 ---
 
+
+### 📫 Reach Me Out
+
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://bishalroy20.netlify.app/)
+[![Instagram Badge](https://img.shields.io/badge/-bishalroy-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bishalroy3332?igsh=MWRuaHE3bjF0NDRvYw==)
+[![Linkedin Badge](https://img.shields.io/badge/-BishalRoy-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bishalroy20/)
+[![Facebook Badge](https://img.shields.io/badge/-BishalRoy-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/bishal.roy.213382)
+[![Gmail Badge](https://img.shields.io/badge/-bishalroy0130@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:bishalbondhon20@gmail.com)
+
+
 📬 Feel free to contact me — I may be slow to respond, but I will surely reply.
 
 
@@ -40,11 +50,6 @@ I focus on building **scalable** and **user‑friendly applications** with **cle
 
 
 
-
-
-# Hi, I'm Bishal Roy 👋
-
-🎓 Computer Science Student | 💻 MERN-Stack Developer | 🧠 DSA Enthusiast
 
 ## 🛠️ Tech Stack
 - 💻 Languages: C++, Python, Java, JavaScript
@@ -66,9 +71,6 @@ I focus on building **scalable** and **user‑friendly applications** with **cle
 
 
 
-## 🔗 Connect with me
-[LinkedIn](https://www.linkedin.com/in/bishal-roy-9aa81137b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 
-[Portfolio] | 
-[Email](bishalbondhon20@gmail.com)
+
 
 
