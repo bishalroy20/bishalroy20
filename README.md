@@ -1,11 +1,36 @@
 
-<a href="http://gitbanner.Saviru.qzz.io/" target="_blank">
-  <img src="Bishal_Roy_banner.png" style="width: 100%;" alt="Bishal Roy GitHub Banner">
-</a>
+<!-- Banner -->
+<p align="center">
+  <img src="Bishal_Roy_banner2.png" style="width: 100%;" alt="Bishal Roy GitHub Banner">
+</p>
 
-```Hi there, I'm Bishal Roy. I'm a full-stack web developer with expertise in **React, Express.js, MongoDB, and Firebase Authentication (MERN stack)**. I focus on building scalable and user-friendly applications with clean code and responsive UI/UX. I’m passionate about learning new technologies, exploring modern React libraries, and integrating AI into projects. I’ve worked on production-level projects like e-commerce platforms and dashboards, and I also have experience in competitive programming. Feel free to contact me — I may be slow to respond, but I will surely reply.```
+<!-- Animated Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Bishal+Roy;Full-stack+MERN+Developer;Competitive+Programmer;Passionate+about+Clean+Code+and+UI/UX" alt="Typing SVG" />
+</p>
 
-<br>
+---
+
+### 👋 Hi there, I'm **Bishal Roy**
+
+I'm a **web developer** with expertise in **React, Express.js, MongoDB, and Firebase Authentication (MERN stack)**.  
+I focus on building **scalable** and **user‑friendly applications** with **clean code** and **responsive UI/UX**.  
+
+💡 Passionate about learning new technologies, exploring modern React libraries, and integrating AI into projects.  
+🚀 Experienced in **production‑level projects** like **e‑commerce platforms** and **internal dashboards**.  
+🏆 Background in **competitive programming**.  
+
+---
+
+### 🔧 Skills
+- **JavaScript**, **React**, **Node.js**, **Express**, **MongoDB**  
+- **Tailwind CSS**, **Firebase**, **GitHub**  
+- **C++**, **Python**
+
+---
+
+📬 Feel free to contact me — I may be slow to respond, but I will surely reply.
+
 
 
 
