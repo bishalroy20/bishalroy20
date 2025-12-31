@@ -55,10 +55,6 @@ I focus on building **scalable** and **user‑friendly applications** with **cle
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishalroy20&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalroy20&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 
 
