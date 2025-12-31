@@ -9,6 +9,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Bishal+Roy;Full-stack+MERN+Developer;Competitive+Programmer;Passionate+about+Clean+Code+and+UI/UX" alt="Typing SVG" />
 </p>
 
+
+
 ---
 
 ### 👋 Hi there, I'm **Bishal Roy**
@@ -19,6 +21,10 @@ I focus on building **scalable** and **user‑friendly applications** with **cle
 💡 Passionate about learning new technologies, exploring modern React libraries, and integrating AI into projects.  
 🚀 Experienced in **production‑level projects** like **e‑commerce platforms** and **internal dashboards**.  
 🏆 Background in **competitive programming**.  
+
+
+
+
 
 ---
 
@@ -37,25 +43,58 @@ I focus on building **scalable** and **user‑friendly applications** with **cle
 
 
 
+
+
 --
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bishalroy20&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishalroy20&theme=radical" alt="GitHub Streak" />
+</p>
+
+
+-- 
+
 
 ## 🚀 Skill Set
 
 Here are the main technologies I use:
 
-<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> |
-<img title="Express.js" alt="Express.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"> |
-<img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> |
-<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> |
-<img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"> |
-<img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"> |
-<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> |
-<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> |
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"> |
-<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"> |
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> |
-<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"> |
-<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+<!-- Centered Row of Logos -->
+<p align="center">
+  <img title="React" alt="React" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" /> 
+  <img title="Express.js" alt="Express.js" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" /> 
+  <img title="Node.js" alt="Node.js" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" /> 
+  <img title="MongoDB" alt="MongoDB" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" /> 
+  <img title="Firebase" alt="Firebase" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" /> 
+  <img title="Tailwind CSS" alt="Tailwind CSS" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" /> 
+  <img title="HTML" alt="HTML" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" /> 
+  <img title="JavaScript" alt="JavaScript" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /> 
+  <img title="Python" alt="Python" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> 
+  <img title="C++" alt="C++" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" /> 
+  <img title="VS Code" alt="VS Code" width="70px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /> 
+  <img title="GitHub" alt="GitHub" width="70px" src="https://img.icons8.com/material-rounded/48/4A90E2/github.png" /> 
+  <img title="Git" alt="Git" width="70px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+</p>
+
+---
+
+<!-- Animated Skill Icons Row -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,html,js,python,cpp,vscode,github,git" />
+</p>
+
+---
+
+<!-- Wave Motion Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+
+
 
 ---
 
